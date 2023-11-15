@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Examen1JuanCarlos</string>
+    <string name="sumador">+</string>
+    <string name="label1">Primer Numero</string>
+    <string name="label2">Segundo Numero</string>
+    <string name="inicio">Pagina Inicio</string>
+    <string name="sumado">Pagina Sumado</string>
+    <string name="volver">Volver</string>
+    <string name="total">Total</string>
+</resources>
